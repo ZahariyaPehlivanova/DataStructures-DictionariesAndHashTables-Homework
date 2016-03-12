@@ -1,0 +1,6 @@
+C:\Users\Zahariya\Desktop\04.OrderedSet\bin\Debug\04.OrderedSet.exe.config
+C:\Users\Zahariya\Desktop\04.OrderedSet\bin\Debug\04.OrderedSet.exe
+C:\Users\Zahariya\Desktop\04.OrderedSet\bin\Debug\04.OrderedSet.pdb
+C:\Users\Zahariya\Desktop\04.OrderedSet\obj\Debug\04.OrderedSet.csprojResolveAssemblyReference.cache
+C:\Users\Zahariya\Desktop\04.OrderedSet\obj\Debug\04.OrderedSet.exe
+C:\Users\Zahariya\Desktop\04.OrderedSet\obj\Debug\04.OrderedSet.pdb

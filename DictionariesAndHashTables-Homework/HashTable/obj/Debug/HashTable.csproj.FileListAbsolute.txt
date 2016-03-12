@@ -1,0 +1,7 @@
+C:\Users\Zahariya\Desktop\HashTable\bin\Debug\HashTable.exe
+C:\Users\Zahariya\Desktop\HashTable\bin\Debug\HashTable.pdb
+C:\Users\Zahariya\Desktop\HashTable\obj\Debug\HashTable.csprojResolveAssemblyReference.cache
+C:\Users\Zahariya\Desktop\HashTable\obj\Debug\HashTable.exe
+C:\Users\Zahariya\Desktop\HashTable\obj\Debug\HashTable.pdb
+C:\Users\Zahariya\Desktop\DictionariesAndHashTables-Homework\HashTable\obj\Debug\HashTable.exe
+C:\Users\Zahariya\Desktop\DictionariesAndHashTables-Homework\HashTable\obj\Debug\HashTable.pdb

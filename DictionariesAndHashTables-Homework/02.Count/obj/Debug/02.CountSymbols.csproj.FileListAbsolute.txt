@@ -1,0 +1,8 @@
+C:\Users\Zahariya\Desktop\02.Count\bin\Debug\02.Count.exe.config
+C:\Users\Zahariya\Desktop\02.Count\bin\Debug\02.Count.exe
+C:\Users\Zahariya\Desktop\02.Count\bin\Debug\02.Count.pdb
+C:\Users\Zahariya\Desktop\02.Count\bin\Debug\HashTable.exe
+C:\Users\Zahariya\Desktop\02.Count\bin\Debug\HashTable.pdb
+C:\Users\Zahariya\Desktop\02.Count\obj\Debug\02.CountSymbols.csprojResolveAssemblyReference.cache
+C:\Users\Zahariya\Desktop\02.Count\obj\Debug\02.Count.exe
+C:\Users\Zahariya\Desktop\02.Count\obj\Debug\02.Count.pdb

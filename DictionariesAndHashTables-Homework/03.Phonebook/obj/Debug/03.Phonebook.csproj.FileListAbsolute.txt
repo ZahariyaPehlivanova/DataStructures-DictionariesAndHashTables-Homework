@@ -1,0 +1,7 @@
+C:\Users\Zahariya\Desktop\03.Phonebook\bin\Debug\03.Phonebook.exe.config
+C:\Users\Zahariya\Desktop\03.Phonebook\bin\Debug\03.Phonebook.exe
+C:\Users\Zahariya\Desktop\03.Phonebook\bin\Debug\03.Phonebook.pdb
+C:\Users\Zahariya\Desktop\03.Phonebook\bin\Debug\HashTable.exe
+C:\Users\Zahariya\Desktop\03.Phonebook\bin\Debug\HashTable.pdb
+C:\Users\Zahariya\Desktop\03.Phonebook\obj\Debug\03.Phonebook.exe
+C:\Users\Zahariya\Desktop\03.Phonebook\obj\Debug\03.Phonebook.pdb
